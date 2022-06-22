@@ -18,6 +18,10 @@ let handler = async (m, { conn }) => {
 🔗 • *Link:* https://wa.me/${who.split`@`[0]}
 🎨 • *Age:* ${registered ? age : ''}
 ${readMore}
+💳 • *Atm:* ${user.atm > 0 ? 'Level ' + user.atm : '✖️'}
+🏛️ • *Bank:* ${user.bank} 💲 / ${user.fullatm} 💲
+💹 • *Money:* ${user.money} 💲
+🤖 • *Robo:* ${user.robo > 0 ? 'Level ' + user.robo : '✖️'}
 🌟 • *Premium:* ${premium ? "✅" :"❌"}
 ⏰ • *PremiumTime:* 
 ${clockString(user.premiumTime)}
