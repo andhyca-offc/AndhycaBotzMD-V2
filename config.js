@@ -112,7 +112,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '              「 乃ㄖㄒ 山卂几ᘜ丂卂千⁩ 」' //Main Watermark
+global.wm = '「 尺乇ㄒ乇卂爪 |ᗪ  乃ㄖㄒ 山卂几ᘜ丂卂千⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
@@ -130,7 +130,7 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Scraping Metadata...```'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -143,18 +143,18 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '999999999999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = '❏═┅═━–〈' //top
+global.dmenut = '    ➪' //top
 global.dmenub = '🌎 ' //body
 global.dmenub2 = '🌎 ' //body for info cmd on Default menu
-global.dmenuf = '🌎' //footer
+global.dmenuf = '\n' //footer
 
-// COMMAND MENU
-global.dashmenu = '*「▰▰▰▱▱▱▱▱▱▱」Scraping metadata... *'
+// COMMAND MENUFonts for Android and iPhone  - www.fontskeyboard.com/share-now
+global.dashmenu = '「▰▰▰▱▱▱▱▱▱▱」'
 global.cmenut = '       『'                       //top
 global.cmenuh = '』'                        //header
 global.cmenub = '🚀 '                            //body
@@ -171,7 +171,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪 乃ㄖㄒ 山卂几ᘜ丂卂千 乂\nwa.me/${global.nomorbot}`
+global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
