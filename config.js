@@ -45,9 +45,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/reteam.id'
+global.sig = 'Gk Ad Bang:v'
 global.sgh = 'https://github.com/reteam.id'
-global.sgc = 'https://chat.whatsapp.com/JuPhEpbDyJvAIaJrHscHoP'
+global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
