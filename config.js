@@ -11,6 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • DaniBotz Team
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -51,23 +52,23 @@ global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '083163989496'
-global.ppulsa2 = '-'
+global.pdana = '081251549899'
+global.povo = '081352848936'
+global.pgopay = '081352848936'
+global.ppulsa = '081251549899'
+global.ppulsa2 = '081352848936'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-'
-global.nomorown = '6288217843188'
-global.namebot = '𝗕𝗢𝗧 𝗪𝗔𝗡𝗚𝗦𝗔𝗙'
-global.nameown = 'X dev'
+global.nomorbot = '6281542613150'
+global.nomorown = '6281251549899'
+global.namebot = 'DaniBotz Ofc'
+global.nameown = 'X Dani Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288217843188', 'X Dev', true]
+  ['6281251549899', 'X Dani Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 尺乇ㄒ乇卂爪 |ᗪ  乃ㄖㄒ 山卂几ᘜ丂卂千⁩ 」' //Main Watermark
+global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
