@@ -12,6 +12,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • DaniBotz Team
+// • Ary Botz (ank ajg)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -45,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
+global.sig = 'https://instagram/AryBotz'
+global.sgh = 'https://github.com/aryjuanda'
 global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
+global.sdc = 'https://github.com/aryjuanda'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '085762008398'
+global.povo = 'gaada :v'
+global.pgopay = 'gaada :v'
+global.ppulsa = '085762008398'
+global.ppulsa2 = '085763050960'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6285763050960'
+global.nomorown = '994408465157'
+global.namebot = 'AryBotz Ofc'
+global.nameown = 'X Ary Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['994408465157', 'X Ary Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
+global.wm2 = '    乂 AryBotz 乂     '
+global.wm3 = 'AryBotz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
+global.titlebot = 'AryGanz✯✯✯✯✯ '
 global.author = global.wm
 
 
