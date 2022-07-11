@@ -23,16 +23,16 @@ global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085872761920'
+global.pdana = '085872761910'
 global.povo = '-'
-global.pgopay = '085872761920'
-global.ppulsa = '085872761920'
-global.ppulsa2 = '085872761920'
+global.pgopay = '085872761910'
+global.ppulsa = '085872761910'
+global.ppulsa2 = '085872761910'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287829536442'
-global.nomorown = '6285794408499','6285872761910'
+global.nomorbot = '62895330584590'
+global.nomorown = '6285794408499','6285872761910','6287829536442'
 global.namebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝'
 global.nameown = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 
