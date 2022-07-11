@@ -16,30 +16,31 @@
 //[!] Jangan Dihapus, mending ditambahin 
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/reteam.id'
-global.sgh = 'https://github.com/reza838'
-global.sgc = 'https://chat.whatsapp.com/JuPhEpbDyJvAIaJrHscHoP'
-global.sdc = 'https://discord.com/reteam.id'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/andhycarsrofficial'
+global.sgh = 'https://github.com/andhyca-offc'
+global.sgc = 'https://chat.whatsapp.com/LMXN8ZkUmvfHGsURriEJOE'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '085872761920'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '083163989496'
-global.ppulsa2 = '083163989496'
+global.pgopay = '085872761920'
+global.ppulsa = '085872761920'
+global.ppulsa2 = '085872761920'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '0'
-global.nomorown = '6288217843188'
-global.namebot = '乂 尺乇ㄒ乇卂爪 乂'
-global.nameown = '尺乇ㄒ乇卂爪 |ᗪ'
+global.nomorbot = '6287829536442'
+global.nomorown = '6285794408499','6285872761910'
+global.namebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝'
+global.nameown = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288217843188', '尺乇ㄒ乇卂爪 |ᗪ', true]
+  ['6285872761910', 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×', true]
+  ['6285794408499', 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -67,8 +68,8 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
-  'https://anabotofc.herokuapp.com/': 'APIKEY',
+  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
+  'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'APIKEY',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
@@ -83,20 +84,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 丂乇尺ᗪ卂ᗪㄩ⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 山卂几ᘜ丂卂千 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪.|ᗪ'
+global.wm = '                ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗ-𝐌𝐝'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '乃ㄖㄒ 山卂几ᘜ丂卂千'
+global.titlebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg' //Main Thumbnail
+global.thumb2 = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg'
+global.thumbbc = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg' //For broadcast
+global.giflogo = 'https://upload-kirbotz.herokuapp.com/file/f2q0FLxFlvZp.webp'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -141,8 +142,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n'
-global.stickauth = `尺乇ㄒ乇卂爪 山卂几ᘜ丂卂千\nwa.me/${global.nomorbot}`
+global.stickpack = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×\n'
+global.stickauth = `𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
