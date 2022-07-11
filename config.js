@@ -33,7 +33,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '62895330584590'
 global.nomorown = '6285794408499','6285872761910','6287829536442'
-global.namebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝'
+global.namebot = '𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ'
 global.nameown = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 
 
@@ -70,26 +70,26 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'APIKEY',
+  'https://melcanz.com': 'melcantik',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://botstyle-api.herokuapp.com': 'Apikeymu',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ |ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗ-𝐌𝐝'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝'
+global.titlebot = '𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ'
 global.author = global.wm
 
 
@@ -143,7 +143,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×\n'
-global.stickauth = `𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗᶻ-𝐌𝐝\nwa.me/${global.nomorbot}`
+global.stickauth = `𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
