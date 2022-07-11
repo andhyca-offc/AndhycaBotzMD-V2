@@ -46,30 +46,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram/AryBotz'
-global.sgh = 'https://github.com/aryjuanda'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/aryjuanda'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram/andhycarsrofficial'
+global.sgh = 'https://github.com/andhyca-offc'
+global.sgc = 'https://chat.whatsapp.com/DTtOcmrCAkKFrVZJD6jb6M'
+global.sdc = 'https://github.com/andhyca-offc'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'gaada :v'
-global.pgopay = 'gaada :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085763050960'
+global.pdana = '085872761910'
+global.povo = '-'
+global.pgopay = '085872761910'
+global.ppulsa = '085872761910'
+global.ppulsa2 = '085872761910'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6287829536442'
+global.nomorown = '6285872761910','6285794408499','62895330584590'
+global.namebot = '𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ'
+global.nameown = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['994408465157', 'X Ary Offcial', true]
+  ['6285872761910', 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×', true]
+  ['6285794408499', 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×', true]
+  ['62895330584590', '𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +116,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 AryBotz 乂     '
-global.wm3 = 'AryBotz |ᗪ'
+global.wm = '「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ |ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×⁩ 」' //Main Watermark
+global.wm2 = '    乂 ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜× 乂     '
+global.wm3 = '𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryGanz✯✯✯✯✯ '
+global.titlebot = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 global.author = global.wm
 
 
