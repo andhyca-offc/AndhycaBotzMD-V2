@@ -94,9 +94,9 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg' //Main Thumbnail
-global.thumb2 = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg'
-global.thumbbc = 'https://upload-kirbotz.herokuapp.com/file/QFsrYvi3tnmL.jpg' //For broadcast
+global.thumb = '/lib/loli.jpg' //Main Thumbnail
+global.thumb2 = 'lib/loli.jpg'
+global.thumbbc = 'lib/loli.jpg' //For broadcast
 global.giflogo = 'https://upload-kirbotz.herokuapp.com/file/f2q0FLxFlvZp.webp'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -112,7 +112,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'lib/loli.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
